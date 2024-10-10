@@ -1,0 +1,41 @@
+                                                                                      Programação Procedural
+
+
+Baseado em Funções: O foco principal está em funções ou procedimentos que operam em dados. O programa é estruturado em uma sequência de chamadas de funções.
+
+Estrutura: O código é estruturado em módulos e funções, mas a reutilização de código pode ser mais difícil em comparação com a POO.
+
+
+
+                                                                             Programação Orientada a Objetos (POO)
+
+
+Baseado em Objetos: O foco está em objetos, que encapsulam dados e comportamento. Cada objeto é uma instância de uma classe.
+
+Encapsulamento: Os dados e as funções que operam sobre esses dados são agrupados, permitindo que os detalhes internos sejam ocultos e protegidos.
+
+Herança: Permite que uma classe herde características (dados e métodos) de outra classe, promovendo a reutilização de código.
+
+Polimorfismo: Permite que diferentes classes possam ser tratadas como instâncias de uma classe base, geralmente através de interfaces ou classes abstratas.
+
+Exemplo de Linguagens: Java, C++, Python, Ruby.
+
+Estrutura: Facilita a modelagem de problemas do mundo real, tornando o código mais modular e reutilizável.
+
+
+                                                                                                 Tarefa Acordar
+
+                                               1. despertador toca
+                                               2. abro os olhos
+                                               3. desligo o despertador
+                                               4. levanto da cama
+                                               5. vou no banheiro
+                                               6. lavo o rosto
+                                               7. escovo os dentes
+                                               8. faço café
+                                               9. ligo o computador
+                                               10. se for dia de semana
+                                                       1. estudo na EBAC
+                                               11. se for final de semana
+                                                       1. jogo algo no pc
+                                                       2. assisto algo no pc
